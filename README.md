@@ -1,6 +1,6 @@
 # ColorTest
 
-A small test program to show a RGB test image on a screen.
+A small test program to show a RGB test image and the RGB solid colors on a screen.
 
 ## Installation
 
